@@ -6,4 +6,4 @@ Link app công khai cho CTV là link xuất bản trên Grok (dạng `*.grok.me`
 
 Repo công khai này chỉ là stub, không chứa source hay token.
 Zip nguồn trên Drive: `FLOW-ELITE-source.zip` (id `1N3f3LynhbtsN4nMO6vJ3B2Boshal_ZDx`).
-File handoff Drive: `HANDOFF-tundra-marble-cliff-cloud-2026-10-05-0018.md`.
+File handoff Drive: `HANDOFF-tundra-marble-cliff-cloud-2026-10-05-0018.md` (id `1zOAoE2LdtetdkYPRMu2xOUucUYIpId44`).
