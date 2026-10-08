@@ -1,12 +1,9 @@
-# FLOW ELITE
+# FLOW ELITE — pointer
 
-App cộng tác viên: nạp, rút, buff, vòng quay.
+Stub công khai. Source mới nhất nằm ở repo private:
 
-Source đầy đủ nằm repo private `huynhtin525-hash/tundra-marble-cliff-cloud` (branch `main`).
-Repo này chỉ là stub công khai — không chứa source hay token.
+https://github.com/huynhtin525-hash/tundra-marble-cliff-cloud
 
-Handoff mới nhất: 2026-10-08 19:15 JST.
-HEAD trước handoff: `02041a5bbb903e2a9c54a4e5041680122c578506`.
+Handoff: 2026-10-09 07:16 JST. Nhánh `main`. Đóng băng: `snapshot-2026-10-09-0716` (HEAD trước handoff `e7bdfd90b7068ba77ff6056e5e6844887560fbb5`).
 
-Nick Grok mới: kết nối GitHub cùng user `huynhtin525-hash`, rồi đọc `HANDOFF.md` trong repo private. Đừng scaffold lại.
-Zip nguồn trên Drive: `FLOW-ELITE-source.zip` (id `1N3f3LynhbtsN4nMO6vJ3B2Boshal_ZDx`) — cũ hơn repo, chỉ dùng khi không vào được repo private.
+Nick Grok mới: kết nối GitHub `huynhtin525-hash`, đọc `HANDOFF.md` + `AGENTS.md`, clone repo private, không scaffold lại.
